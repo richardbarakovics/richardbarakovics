@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardbarakovics
 - 👀 I’m interested in user interfaces that make people want to bite into it!
-- 🌱 I’m currently learning React JS framework
-- 💞️ I’m looking to collaborate on static pages which include React for practicing purposes
+- 🌱 I’m currently deep-diving in React JS library
+- 💞️ I’m looking to collaborate on simple React pages for practicing purposes
 - 📫 You can reach me via GitHub
 
 <!---
